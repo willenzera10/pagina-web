@@ -8,4 +8,7 @@ header{
 }
 .top1{
     background-color: rgb(211, 0, 0);
+    color: white;
+    text-align: center;
+    padding: 40px;
 }
